@@ -1,1 +1,2 @@
 Performing merge and rebase opreations
+Done the following
